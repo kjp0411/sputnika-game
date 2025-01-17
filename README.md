@@ -16,3 +16,4 @@ node.js를 설치해주시고 밑에 실행 순서 따라가시면 됩니다.
 ■ npm 오류 발생 시 cmd 창에서 아래 명령어 두개 입력
 npm install -g vite
 npm install vite
+![image](https://github.com/user-attachments/assets/7edf4b77-d83e-469a-84b6-9c33d9dcc7e0)
