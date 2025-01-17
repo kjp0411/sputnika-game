@@ -1,5 +1,6 @@
 ■ node.js 설치
 사이트 : https://nodejs.org/en
+
 node.js를 설치해주시고 밑에 실행 순서 따라가시면 됩니다.
 
 ■ 실행 순서
